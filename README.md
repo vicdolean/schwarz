@@ -16,3 +16,9 @@ Used to produce the limiting spectrum figures and the convergence rate as a func
 test1d_maxwell.m
 test2d_helmholtz.m
 test2d_maxwell.m
+
+Freefem
+Domain decomposition method in a strip-wise decomposition
+
+Helmholtz-2d-free-space-strips.edp 
+Helmholtz-2d-plane-wave-strips.edp  
