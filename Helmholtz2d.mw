@@ -93,7 +93,7 @@
 </Input>
 </Group>
 <Group labelreference="L768" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Font size="14">Comments on the onvergence for the 2d Helmholtz equation with absorption</Font></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Font size="14">Comments on the convergence for the 2d Helmholtz equation with absorption: Corollary 4.2 (k-independence)</Font></Text-field>
 </Input>
 </Group>
 <Group hide-input="false" labelreference="L769" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
